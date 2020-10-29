@@ -1,0 +1,5 @@
+a,b=input().split()
+a=int(a)
+b=int(b)
+ans=b*(100**a)
+print(ans)
